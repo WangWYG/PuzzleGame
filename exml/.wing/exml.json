@@ -1,0 +1,34 @@
+{
+  "global": {
+    "globalAutoLayerMarkEnable": true,
+    "globalBackgroundColor": "",
+    "globalBackgroundImage": "",
+    "globalBackgroundAlpha": 100,
+    "globalBackgroundX": 0,
+    "globalBackgroundY": 0,
+    "globalBackgroundWidth": -1,
+    "globalBackgroundHeight": -1
+  },
+  "159883259e0": {
+    "guideLinesEnabled": true
+  },
+  "159abe3f1fb": {
+    "backgroundX": 0,
+    "backgroundY": 0,
+    "backgroundWidth": -1,
+    "backgroundHeight": -1,
+    "useBgImage": true,
+    "useBgColor": true,
+    "backgroundAlpha": 100
+  },
+  "159ac33401d": {
+    "guideLinesEnabled": false,
+    "backgroundX": 0,
+    "backgroundY": 0,
+    "backgroundWidth": -1,
+    "backgroundHeight": -1,
+    "useBgImage": true,
+    "useBgColor": true,
+    "backgroundAlpha": 100
+  }
+}

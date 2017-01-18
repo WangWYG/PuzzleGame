@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="skins.GameStartButtonSkin" width="183" height="71" xmlns:e="http://ns.egret.com/eui">
+	<e:Image anchorOffsetX="0" anchorOffsetY="0" left="0" right="0" top="0" bottom="0" source="gameStart_png"/>
+	<e:Label text="开始游戏" anchorOffsetX="0" anchorOffsetY="0" top="0" bottom="0" left="0" right="0" 
+    verticalAlign="middle" textAlign="center" size="40" textColor="0x5c0000"/>
+</e:Skin>

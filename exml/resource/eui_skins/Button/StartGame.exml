@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin width="240" height="126" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="159ac33401d" verticalCenter="0" horizontalCenter="0"/>
+
+	<e:Image source="bde913bb7641ce43b7962c9dc1809188_png" anchorOffsetX="0" width="267" anchorOffsetY="0" height="138" horizontalCenter="0" verticalCenter="0"/>
+	<e:Label text="开始游戏" anchorOffsetX="0" width="197" anchorOffsetY="0" height="91" size="42" textAlign="center" verticalAlign="middle" verticalCenter="0" horizontalCenter="0" bold="true" italic="true" textColor="0x3f1a1a"/>
+
+
+</e:Skin>

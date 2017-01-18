@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="mainPanel" width="480" height="800" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="159b064f17d"/>
+	<e:Image width="480" height="800" x="0" y="0" source="选择模式版面_png"/>
+
+	<e:Button id="returnBtn" label="返回" left="396" y="33" x="60" scaleX="1" scaleY="1" anchorOffsetX="0" width="54" anchorOffsetY="0" height="42" icon="AnNiu_DengLu.png" skinName="skin.ReturnButtonSkin"/>
+	<e:Button id="easyBtn" y="187" width="393" anchorOffsetX="0" anchorOffsetY="0" height="154" horizontalCenter="0.5" skinName="skin.ChooseButtonSkin" icon="3x3简单模式_png"/>
+	<e:Button id="normalBtn" y="386" width="393" height="166" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0.5" x="54" skinName="skin.ChooseButtonSkin" icon="4x4开始普通模式.png"/>
+	<e:Button id="diffBtn" y="587" width="393" height="177" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="-2.5" x="54" skinName="skin.ChooseButtonSkin" icon="6x6开始困难模式.png"/>
+</e:Skin>

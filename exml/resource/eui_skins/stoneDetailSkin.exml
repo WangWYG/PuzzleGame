@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin width="480" height="83" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*" class="StoneDetailSkin">
+	<e:Image source="DiBan_2_png" x="9" y="8" anchorOffsetY="0" height="67"/>
+    
+	<e:Label id="nameLab" text="名称" x="117" verticalCenter="8.5" size="16" bold="true" textColor="0x000000"/>
+	<e:Label id="price" text="价格" x="374" verticalCenter="0.5" size="16" textColor="0x472317" bold="true"/>
+	<e:Image source="WenZi_GuJia_png" x="240" y="21"/>
+</e:Skin>

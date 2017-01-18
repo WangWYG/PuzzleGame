@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="mainPanel" width="480" height="800" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image width="480" height="800" x="0" y="0" source="封面底图_png"/>
+
+	<e:Button id="handbookBtn" label="宝物图鉴" skinName="skins.ButtonSkin" left="60" y="450" x="60" scaleX="1" scaleY="1"/>
+	<e:Button id="moreBtn" label="更多游戏" left="60" y="550" skinName="skins.ButtonSkin"/>
+	<e:Button id="shareBtn" label="炫耀一下" skinName="skins.ButtonSkin" right="60" y="550"/>
+	<e:Button id="rankBtn" label="排行榜" right="60" y="450" skinName="skins.ButtonSkin"/>
+	<e:Button id="enterBtn" anchorOffsetX="0" anchorOffsetY="0" y="650" scaleX="1" scaleY="1" icon="assets/picture/AnNiu_DengLu.png" width="171" height="58" skinName="skins.GameStartButtonSkin" horizontalCenter="0"/>
+</e:Skin>

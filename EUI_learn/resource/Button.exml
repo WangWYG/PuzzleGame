@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Group class="app.MyGroup" xmlns:e="http://ns.egret.com/eui">
+  <e:Image source="image/button_up.png" x="10" />
+</e:Group>

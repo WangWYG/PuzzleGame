@@ -1,0 +1,255 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,9_png,0_png,1_png,2_png,3_png,4_png,5_png,6_png,7_png,8_png,gameStart_png,normal_png,go_png,12_png,22_png,32_png,92_png,02_png,13_png,23_png,33_png,42_png,52_png,62_png,72_png,82_png,普通模式分割线_png,简单模式分割线_png,困难模式_png,困难模式分割线_png,秒数_png,普通模式_png,普通模式背景_png,封面底图_png,简单模式_png,纸张_png,黄色按钮_png,价值多少万_png,蓝色通用按钮_png,图片框_png,完成_png,失败_png,方形框_png,选择模式版面_png,3x3简单模式_png,4x4开始普通模式_png,6x6开始困难模式_png,返回按钮_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "9_png",
+			"type": "image",
+			"url": "assets/picture/price/9.png"
+		},
+		{
+			"name": "0_png",
+			"type": "image",
+			"url": "assets/picture/price/0.png"
+		},
+		{
+			"name": "1_png",
+			"type": "image",
+			"url": "assets/picture/price/1.png"
+		},
+		{
+			"name": "2_png",
+			"type": "image",
+			"url": "assets/picture/price/2.png"
+		},
+		{
+			"name": "3_png",
+			"type": "image",
+			"url": "assets/picture/price/3.png"
+		},
+		{
+			"name": "4_png",
+			"type": "image",
+			"url": "assets/picture/price/4.png"
+		},
+		{
+			"name": "5_png",
+			"type": "image",
+			"url": "assets/picture/price/5.png"
+		},
+		{
+			"name": "6_png",
+			"type": "image",
+			"url": "assets/picture/price/6.png"
+		},
+		{
+			"name": "7_png",
+			"type": "image",
+			"url": "assets/picture/price/7.png"
+		},
+		{
+			"name": "8_png",
+			"type": "image",
+			"url": "assets/picture/price/8.png"
+		},
+		{
+			"name": "gameStart_png",
+			"type": "image",
+			"url": "assets/picture/button/gameStart.png"
+		},
+		{
+			"name": "normal_png",
+			"type": "image",
+			"url": "assets/picture/button/normal.png"
+		},
+		{
+			"name": "go_png",
+			"type": "image",
+			"url": "assets/picture/reading/go.png"
+		},
+		{
+			"name": "12_png",
+			"type": "image",
+			"url": "assets/picture/reading/1.png"
+		},
+		{
+			"name": "22_png",
+			"type": "image",
+			"url": "assets/picture/reading/2.png"
+		},
+		{
+			"name": "32_png",
+			"type": "image",
+			"url": "assets/picture/reading/3.png"
+		},
+		{
+			"name": "92_png",
+			"type": "image",
+			"url": "assets/picture/time/9.png"
+		},
+		{
+			"name": "02_png",
+			"type": "image",
+			"url": "assets/picture/time/0.png"
+		},
+		{
+			"name": "13_png",
+			"type": "image",
+			"url": "assets/picture/time/1.png"
+		},
+		{
+			"name": "23_png",
+			"type": "image",
+			"url": "assets/picture/time/2.png"
+		},
+		{
+			"name": "33_png",
+			"type": "image",
+			"url": "assets/picture/time/3.png"
+		},
+		{
+			"name": "42_png",
+			"type": "image",
+			"url": "assets/picture/time/4.png"
+		},
+		{
+			"name": "52_png",
+			"type": "image",
+			"url": "assets/picture/time/5.png"
+		},
+		{
+			"name": "62_png",
+			"type": "image",
+			"url": "assets/picture/time/6.png"
+		},
+		{
+			"name": "72_png",
+			"type": "image",
+			"url": "assets/picture/time/7.png"
+		},
+		{
+			"name": "82_png",
+			"type": "image",
+			"url": "assets/picture/time/8.png"
+		},
+		{
+			"name": "普通模式分割线_png",
+			"type": "image",
+			"url": "assets/picture/panel/普通模式分割线.png"
+		},
+		{
+			"name": "简单模式分割线_png",
+			"type": "image",
+			"url": "assets/picture/panel/简单模式分割线.png"
+		},
+		{
+			"name": "困难模式_png",
+			"type": "image",
+			"url": "assets/picture/panel/困难模式.png"
+		},
+		{
+			"name": "困难模式分割线_png",
+			"type": "image",
+			"url": "assets/picture/panel/困难模式分割线.png"
+		},
+		{
+			"name": "秒数_png",
+			"type": "image",
+			"url": "assets/picture/panel/秒数.png"
+		},
+		{
+			"name": "普通模式_png",
+			"type": "image",
+			"url": "assets/picture/panel/普通模式.png"
+		},
+		{
+			"name": "普通模式背景_png",
+			"type": "image",
+			"url": "assets/picture/panel/普通模式背景.png"
+		},
+		{
+			"name": "封面底图_png",
+			"type": "image",
+			"url": "assets/picture/panel/封面底图.png"
+		},
+		{
+			"name": "简单模式_png",
+			"type": "image",
+			"url": "assets/picture/panel/简单模式.png"
+		},
+		{
+			"name": "纸张_png",
+			"type": "image",
+			"url": "assets/picture/panel/纸张.png"
+		},
+		{
+			"name": "黄色按钮_png",
+			"type": "image",
+			"url": "assets/picture/panel/黄色按钮.png"
+		},
+		{
+			"name": "价值多少万_png",
+			"type": "image",
+			"url": "assets/picture/panel/价值多少万.png"
+		},
+		{
+			"name": "蓝色通用按钮_png",
+			"type": "image",
+			"url": "assets/picture/panel/蓝色通用按钮.png"
+		},
+		{
+			"name": "图片框_png",
+			"type": "image",
+			"url": "assets/picture/panel/图片框.png"
+		},
+		{
+			"name": "完成_png",
+			"type": "image",
+			"url": "assets/picture/panel/完成.png"
+		},
+		{
+			"name": "失败_png",
+			"type": "image",
+			"url": "assets/picture/panel/失败.png"
+		},
+		{
+			"name": "方形框_png",
+			"type": "image",
+			"url": "assets/picture/panel/方形框.png"
+		},
+		{
+			"name": "选择模式版面_png",
+			"type": "image",
+			"url": "assets/picture/panel/选择模式版面.png"
+		},
+		{
+			"name": "3x3简单模式_png",
+			"type": "image",
+			"url": "assets/picture/panel/3x3简单模式.png"
+		},
+		{
+			"name": "4x4开始普通模式_png",
+			"type": "image",
+			"url": "assets/picture/panel/4x4开始普通模式.png"
+		},
+		{
+			"name": "6x6开始困难模式_png",
+			"type": "image",
+			"url": "assets/picture/panel/6x6开始困难模式.png"
+		},
+		{
+			"name": "返回按钮_png",
+			"type": "image",
+			"url": "assets/picture/panel/返回按钮.png"
+		}
+	]
+}
